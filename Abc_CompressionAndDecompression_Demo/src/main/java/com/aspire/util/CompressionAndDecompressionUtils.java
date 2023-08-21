@@ -328,3 +328,5 @@ public class CompressionAndDecompressionUtils {
 	}
 
 }
+
+console.log("test")
